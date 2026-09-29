@@ -1,0 +1,17 @@
+{
+  "students": [
+    {
+      "id": "1",
+      "name": "Samarth",
+      "email": "samarth@gmail.com",
+      "course": "JAVa Course"
+    },
+    {
+      "name": "Ram",
+      "email": "ram@gmail.com",
+      "course": "DA",
+      "id": "75eGW_dJ5pU"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
